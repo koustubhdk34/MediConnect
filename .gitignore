@@ -44,5 +44,4 @@ application-*.properties
 *.env
 .env.local
 .env.*.local
-LEARNING_PLAN.md
-EXPLAINATION.md
+ 
